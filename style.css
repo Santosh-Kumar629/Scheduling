@@ -1,0 +1,97 @@
+.container2{
+    width:700px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    height: 50px;
+}
+.container3{
+    width:700px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    height: 50px;
+}
+.container5{
+    height: 25px;
+    display: grid;
+    background-color:darkblue;
+    
+}
+.item-4{
+    background-color:green;
+    height: 30px;
+    width:200px;
+}
+.item-5{
+    background-color: purple;
+    height: 30px;
+    width:200px;
+}
+.item-6{
+    background-color: brown;
+    height: 30px;
+    width:200px;
+}
+
+.item-1{
+    background-color:skyblue;
+    height: 30px;
+    width:200px;
+}
+.item-2{
+    background-color: yellow;
+    height: 30px;
+    width:200px;
+}
+.item-3{
+    background-color: blue;
+    height: 30px;
+    width:200px;
+}
+
+.container1{
+    height: 30px;
+    display: grid;
+    background-color:darkblue;
+    
+}
+#btn{
+    position:fixed;
+    right:20px;
+    top:10px;
+    
+}
+.content1{
+    border-collapse: collapse;
+    margin:25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow:hidden;
+
+}
+.content1 {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;;
+}
+.content1 thead tr{
+    background-color: skyblue;
+    color:#ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+.content1 th,
+.content1 td{
+    padding:12px 15px;
+}
+.content1 tbody tr{
+    border-bottom: 2px solid grey;
+    border:2px solid grey;
+}
+#start{
+    display:flex;
+    justify-content: end;
+}
